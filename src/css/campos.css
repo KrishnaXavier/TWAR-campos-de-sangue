@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+body { 
+}
+
+.campo{
+	width: 780px;
+	height: 585px;	
+	float:left;
+}
+
+.campo_externo{
+	width: auto;
+	height: auto;	
+}
+
+.campo_biomas{
+	width: 185px;
+	height: auto;
+	margin: 5px;	
+	float: left;		
+}
+
+.campo_quadrado{
+	width: 37px;
+	height: 35px;
+	float: left;
+	border-style: solid;
+    border-width: 1px;
+    color: #000000;
+}
+
+.campo_externo_base_jogador1{
+	width: 585px;
+	height: 190px;
+	float: left;
+}
+
+.campo_base_jogador1{
+	background-image: url("../imgs/biomas/castelo.png");
+	width: 185px;		
+	margin: 5px;
+	float: left;	
+}
+
+.campo_externo_base_jogador2{
+	width: 585px;
+	height: 190px;	
+	float:left;
+}
+
+.campo_base_jogador2{	
+	background-image: url("../imgs/biomas/castelo.png");
+	width: 185px;
+	margin: 5px;	
+	float: right;
+}

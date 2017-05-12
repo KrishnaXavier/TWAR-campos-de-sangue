@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body {
+    background-color:#e3e3e3;
+}
+
+.titulo{
+	font-size: 40px;	
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	color: #3071a9;
+	height: 60px;
+	width: 100%;
+	background-color: #aeaeae;
+	text-align: center;
+	margin-top: -20px;
+}

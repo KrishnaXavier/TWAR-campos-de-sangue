@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.container-cadastro{
+	font-size: 20px;	
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	color: #3071a9;
+	margin-left: 20%;
+	padding: 20px;
+	min-width: 300px;
+	min-height: 300px;
+	width: 40%;
+	height: 40%;
+
+}
+
+.cadastro-input{
+	margin: 5px;
+}
+
+.cadastro-enviar{
+	margin-top: 20px;
+	font-size: 30px;
+	float: right;
+}
+

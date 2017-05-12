@@ -1,0 +1,19 @@
+finalizado
+
+  Server.php - comunicar clientes (1, 2,...,n) usando o servidor como ponte:
+  definido sistema de sockets de rede e web sockets;
+  
+
+andamento
+
+  Rotina para ofertas de partidas por parte dos clientes e, aceitar a oferta e forma de executar a rotina 'Partida';
+  
+3 possibilidades a discutir;
+
+extra
+
+  Alternativa para implementar rotina das partidas;
+  
+
+OBS: O server.php roda diretamente pelo terminal ( prompt ) sendo iniciado pelo comando 'php server.php'.
+  

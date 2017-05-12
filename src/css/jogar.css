@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+.steps{
+	width: auto;	
+	height: auto;	
+}
+
+.step1{
+	width: 800px;
+	height: auto;
+	margin-right: auto;
+    margin-left: auto;        
+}
+
+.step1Inf{
+	font-size: 40px;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;    
+    margin-top: 30px;
+    margin-left: 150px;    
+    color: #3071a9;    
+}
+
+.step1Img{	
+    margin-left: 350px;       
+    margin-top: 30px;
+}
+
+.step1Simulacao{
+	margin-left: 320px;       
+    margin-top: 60px;
+}
+
+.containerMenuJogador{
+	width: 400px;
+	height: 585px;
+	background-color:#aeaeae; 
+	border-style: solid;
+    border-width: 1px;
+    float:left;
+    margin: 5px;
+    text-align: center;
+    font-size: 30px;
+    color:#3071a9;
+    box-shadow: 10px 10px 5px #888888;    
+}
+
+.containerSubMenuJogador{
+    text-align: left;
+    font-size: 20px;
+    color:#12314b;
+
+}
